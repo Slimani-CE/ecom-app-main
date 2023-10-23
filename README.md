@@ -1,22 +1,16 @@
-# Ecom-App
 
-## Table of Contents
-
-
-- [Ecom-App](#ecom-app)
-  - [Table of Contents](#table-of-contents)
-  - [Microservices Overview](#microservices-overview)
-    - [Project Architecture](#project-architecture)
-    - [🔌 Configuration Service Module](#-configuration-service-module)
-    - [🌐 Gateway Service Module](#-gateway-service-module)
-    - [👥 Customer Service Module](#-customer-service-module)
-    - [📦 Inventory Service Module](#-inventory-service-module)
-    - [🛒 Order Service Module](#-order-service-module)
-    - [📁 Config-Repo](#-config-repo)
-    - [🖥️ Ecom-App (Front-end Angular)](#️-ecom-app-front-end-angular)
-  - [Getting Started](#getting-started)
-  - [Contributions and Issues](#contributions-and-issues)
-  - [Screenshots](#screenshots)
+- [Microservices Overview](#microservices-overview)
+  - [Project Architecture](#project-architecture)
+  - [🔌 Configuration Service Module](#-configuration-service-module)
+  - [🌐 Gateway Service Module](#-gateway-service-module)
+  - [👥 Customer Service Module](#-customer-service-module)
+  - [📦 Inventory Service Module](#-inventory-service-module)
+  - [🛒 Order Service Module](#-order-service-module)
+  - [📁 Config-Repo](#-config-repo)
+  - [🖥️ Ecom-App (Front-end Angular)](#️-ecom-app-front-end-angular)
+- [Getting Started](#getting-started)
+- [Contributions and Issues](#contributions-and-issues)
+- [Screenshots](#screenshots)
 
 ## Microservices Overview
 
