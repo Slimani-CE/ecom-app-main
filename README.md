@@ -8,8 +8,6 @@
   - [🛒 Order Service Module](#-order-service-module)
   - [📁 Config-Repo](#-config-repo)
   - [🖥️ Ecom-App (Front-end Angular)](#️-ecom-app-front-end-angular)
-- [Getting Started](#getting-started)
-- [Contributions and Issues](#contributions-and-issues)
 - [Screenshots](#screenshots)
 
 ## Microservices Overview
@@ -60,22 +58,6 @@ The **Config-Repo** module is a central repository for service configuration. It
 The **Ecom-App** is the front-end user interface for our e-commerce platform. Built using Angular, it connects to and interacts with the microservices to provide customers with an engaging shopping experience. It's the face of our platform, allowing users to browse products, place orders, and manage their accounts.
 
 [Learn more about Ecom-App](https://github.com/Slimani-CE/ecom-app-front-end)
-
-## Getting Started
-
-If you're new to the Ecom-App project, here's how you can get started:
-
-1. Clone this repository to your local environment.
-
-2. Explore each microservice module to understand their functionalities and configurations.
-
-3. Check out the respective READMEs in each module for more details.
-
-4. To deploy the application and its microservices, follow the setup instructions in each module's README.
-
-## Contributions and Issues
-
-We welcome contributions and feedback from the community. If you encounter any issues or have ideas for improvements, please open an issue in the respective module's repository. We appreciate your involvement in making Ecom-App even better!
 
 ## Screenshots
 
