@@ -1,5 +1,5 @@
 [submodule "front-end-module"]
-	path = fron-end-module
+	path = front-end-module
 	url = https://github.com/Slimani-CE/ecom-app-front-end
 [submodule "config-repo-module"]
 	path = config-repo-module
